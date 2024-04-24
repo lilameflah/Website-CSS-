@@ -7,7 +7,7 @@ theme = "theme"
     authors = ["Lucas Sylvester", "Lucas Emcken ", "Lila Meflah"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    github = "https://github.com/lilameflah/Website-CSS-.git"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
