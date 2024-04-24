@@ -1,14 +1,14 @@
-name = "project-website-template"
+name = "Beer Data analysis"
 license = "MIT"
 description = ""
-homepage = "https://github.com/peterampazzo/project-website-template"
+homepage = "https://github.com/lilameflah/Website-CSS-.git"
 tags = []
 features = []
 min_version = "0.1.0"
 
 [author]
-  name = "Pietro Rampazzo"
-  homepage = "github.com/peterampazzo"
+  name = "Lucas Emcken, Lucas Sylvester, Lila Meflah"
+  homepage = "github.com/lilameflah"
 
 # If porting an existing theme
 [original]
